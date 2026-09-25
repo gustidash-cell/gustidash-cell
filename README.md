@@ -28,7 +28,7 @@ Developer_Profile:
   Focus: ["Software Development", "Educational Tools", "Web Applications", "System Design"]
 ```
 
-- 🔭 Saya sedang mengembangkan berbagai proyek perangkat lunak dan materi edukasi digital.
+- 🔭 Saya sedang mengembangkan berbagai proyek perangkat lunak dan media pembelajaran interaktif.
 - 💡 Tertarik pada **Web Development, Algoritma, Matematika Terapan & Sistem Informasi**.
 - ⚡ Hobi: **Coding, Riset Teknologi, & Berbagi Pengetahuan**.
 
@@ -76,9 +76,10 @@ Developer_Profile:
 
 ### 🌟 Featured Projects
 
-| Repository | Deskripsi | Tech Stack | Status |
+| Repository | Deskripsi | Tech Stack | Live Demo |
 | :--- | :--- | :--- | :---: |
-| 📚 **[Number-Theory-UNIROW](https://github.com/gustidash-cell/Number-Theory-UNIROW)** | Seluruh Bahan Ajar Number Theory (Teori Bilangan) | `LaTeX` `Markdown` `Edu` | 🚀 Active |
+| 📐 **[RealAnalysis_S1_3C](https://github.com/gustidash-cell/RealAnalysis_S1_3C)** | Aplikasi Interaktif Pembuktian Analisis Riil | `HTML5` `JS` `KaTeX` | 🌐 **[Buka Demo](https://gustidash-cell.github.io/RealAnalysis_S1_3C/)** |
+| 📚 **[Number-Theory-UNIROW](https://github.com/gustidash-cell/Number-Theory-UNIROW)** | Seluruh Bahan Ajar Number Theory (Teori Bilangan) | `LaTeX` `Markdown` `Edu` | 🌐 **[Buka Modul](https://gustidash-cell.github.io/Number-Theory-UNIROW/)** |
 
 ---
 
