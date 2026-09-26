@@ -1,12 +1,17 @@
 <div align="center">
 
-<!-- Banner Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,28,34&height=200&section=header&text=Welcome%20to%20gustidash-cell%20Github!&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,28,34&height=200&section=header&text=Real%20Eyes%20%7C%20Realize%20%7C%20Real%20Lies&fontSize=36&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<!-- Typing Animation Subtitle -->
+<!-- Typing Animation Quote -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Educator;Building+Modern+Web+Apps+%26+Educational+Tools;Passionate+about+Clean+Code+%26+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=FF3E6C&center=true&vCenter=true&width=600&lines=Real+Eyes;Realize;Real+Lies" alt="Real Eyes Realize Real Lies Typing SVG" />
 </a>
+
+<br/><br/>
+
+<!-- Animated Illustration: Glasses Slide Up & Evil Squint Eyes -->
+<img src="./real_eyes_animation.gif" width="550" alt="Real Eyes Animation - Glasses sliding up with evil squinting eyes" />
 
 <br/><br/>
 
